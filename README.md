@@ -16,3 +16,5 @@ Este dataset se puede encontrar en la pagina [Stanford Dogs Dataset](http://visi
 ## Modelos:
 CNN, transfer learning con Xception.
 
+## Video de funcionamiento:
+[Video](https://youtu.be/q8RETnkJ8ek)
