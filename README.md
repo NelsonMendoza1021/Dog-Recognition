@@ -1,4 +1,4 @@
-# Dog-Recognicion
+# Dog-Recognition
 
 ![Banner](https://github.com/NelsonMendoza1021/Dog-Recognicion/assets/92164946/73583e70-3094-4b8d-bdfa-22b35281cd4b)
 
