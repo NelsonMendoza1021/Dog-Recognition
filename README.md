@@ -11,7 +11,7 @@ El objetivo de este proyecto es desarrollar un modelo de aprendizaje profundo ca
 
 ## Dataset
 El Conjunto de Datos de Perros de Stanford contiene más de 20,000 imágenes categorizadas en 120 razas con bounding boxes. La cantidad de fotos para cada raza es relativamente baja, lo que generalmente es una buena razón para emplear transfer learning.
-Este dataset se puede encontrar en la pagina [Standford dog dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+Este dataset se puede encontrar en la pagina [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
 ## Modelos:
 CNN, transfer learning con Xception.
